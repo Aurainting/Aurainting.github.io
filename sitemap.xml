@@ -2,27 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://aurumting.cn/2021/12/07/PyTorch_intrusive_ptr/</loc>
-    
-    <lastmod>2021-12-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://aurumting.cn/2021/12/04/PyTorch_c10/</loc>
-    
-    <lastmod>2021-12-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://aurumting.cn/2021/11/28/automatic-differential/</loc>
     
-    <lastmod>2021-12-12</lastmod>
+    <lastmod>2022-01-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,29 +31,22 @@
 
   <url>
     <loc>https://aurumting.cn/</loc>
-    <lastmod>2021-12-30</lastmod>
+    <lastmod>2022-01-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://aurumting.cn/tags/PyTorch/</loc>
-    <lastmod>2021-12-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://aurumting.cn/tags/cpp/</loc>
-    <lastmod>2021-12-30</lastmod>
+    <lastmod>2022-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://aurumting.cn/tags/calculus/</loc>
-    <lastmod>2021-12-30</lastmod>
+    <lastmod>2022-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -79,15 +54,8 @@
 
   
   <url>
-    <loc>https://aurumting.cn/categories/Deep-Learning/</loc>
-    <lastmod>2021-12-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://aurumting.cn/categories/Machine-Learning/</loc>
-    <lastmod>2021-12-30</lastmod>
+    <lastmod>2022-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
